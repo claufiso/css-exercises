@@ -1,0 +1,41 @@
+/* Estilos generales */
+* {
+  box-sizing: border-box;
+  color: #3b3636;
+  font-family: "Montserrat";
+}
+
+.container {
+  width: 600px;
+}
+
+.card-list {
+  list-style-type: none;
+}
+
+.card-item {
+  margin-top: 30px;
+}
+
+.card-item-title {
+  margin-bottom: 15px;
+  font-weight: 600;
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+.card-item-text {
+  color: #3b3636;
+  line-height: 25px;
+  margin-left: 100px;
+}
+
+.card-item svg {
+  width: 60px;
+  height: 60px;
+  fill: #fff;
+  background-color: #3b3636;
+  padding: 10px;
+  margin-left: 5px;
+  position: absolute;
+}

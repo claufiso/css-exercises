@@ -1,0 +1,52 @@
+/* Estilos generales */
+* {
+  box-sizing: border-box;
+  font-family: "Arial";
+}
+
+.container {
+  width: 380px;
+  border: 1px solid #a29fa0;
+  margin: 10px;
+}
+
+.section-container {
+  padding: 30px;
+}
+
+.head-container {
+  margin-bottom: 40px;
+}
+
+.shopping-car {
+  fill: #8866bb;
+  position: absolute;
+  height: 70px;
+  width: 70px;
+}
+
+.percentage {
+  font-size: 50px;
+  font-weight: 800;
+  margin-left: 100px;
+  color: #f0e7fe;
+}
+
+.title {
+  color: #333;
+  margin: 25px 0;
+  font-size: 25px;
+}
+
+.info-text {
+  color: #b0a4a4;
+  letter-spacing: 0.5px;
+  font-size: 25px;
+  line-height: 40px;
+}
+
+.installment {
+  font-weight: 400;
+  margin: 25px 0;
+  color: #333;
+}
